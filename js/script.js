@@ -5,7 +5,9 @@
 // number=4
 // console.log (number)
 
-alert('Hello');
-alert (3+5);
-prompt ('What is your name?');
-const Name = prompt ("What is your name?");
+// alert('Hello');
+// alert (3+5);
+// prompt ('What is your name?');
+// const Name = prompt ("What is your name?");
+console.log('Навчаємось')
+console.log('JS')
